@@ -1,2 +1,3 @@
-# rotorkit_flight_control
+# rotorkite_flight_control
 Flight Control Laboratory Uni Freiburg
+
